@@ -1,4 +1,5 @@
-# Customer Support Chatbot FAQ
+
+# BuyazBot: Customer Support Chatbot FAQ
 
 **Live frontend:** [http://138.252.115.100:6008/](http://138.252.115.100:6008)
 

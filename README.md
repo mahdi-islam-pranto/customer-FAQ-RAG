@@ -1,10 +1,12 @@
 # Customer Support Chatbot FAQ
 
+**Live frontend:** [http://138.252.115.100:6008/](http://138.252.115.100:6008)
+
 A Retrieval-Augmented Generation (RAG) based FAQ assistant that indexes uploaded documents, creates a local vector store, and answers user questions grounded in the uploaded content.
 
 ## Project screenshot
 
-![Customer Support Chatbot FAQ screenshot](screenshots/rag%20chatbot%20ss.png)
+![Customer Support Chatbot FAQ screenshot](<screenshots/rag%20chatbot%20ss.png>)
 
 **Key features**
 
@@ -20,8 +22,6 @@ A Retrieval-Augmented Generation (RAG) based FAQ assistant that indexes uploaded
 - Document loader: [load_document.py](Customer Support Chatbot FAQ/load_document.py)
 - RAG utilities: [rag_pipeline.py](Customer Support Chatbot FAQ/rag_pipeline.py)
 - Search strategies: [searching/fuzzy.py](Customer Support Chatbot FAQ/searching/fuzzy.py), [searching/semantic.py](Customer Support Chatbot FAQ/searching/semantic.py), [searching/hybrid.py](Customer Support Chatbot FAQ/searching/hybrid.py)
-
-
 
 Getting started
 ---------------
